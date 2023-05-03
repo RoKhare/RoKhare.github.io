@@ -6,4 +6,4 @@ title: "Code"
 
 
 
-{% include code_snippet.html code="print("Hello world")" language="python" %}
+{% include code_snippet.js code="print("Hello world")" language="python" %}
