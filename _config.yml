@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "code.md", title: "Code", icon: code}
   - {file: "video.md", title: "Demo", icon: video}
+  - {title: "Resources", icon: files}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rkhare3@asu.edu"}
