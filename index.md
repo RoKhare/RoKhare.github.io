@@ -15,6 +15,9 @@ In a nutshell, our project implements detection of faces and preferentially move
 We plan on mastering data collection and data communication through ROS nodes. We also plan to process the data received and implement it in real time. We plan on training the CNN model in the host machine and then deploying it to the turtlebot. Essentially, we will be transferring the weights learnt to the program being used by the turtle bot. Apart from implementing this transfer learning, we also plan on getting real time data so that the robot drives towards the person(goal) with no mask using ROS communication. 
 On a whole, we plan on using Data Collection , Communication, robot movement, Image Data Processing with YOLO and SLAM if possible.
 
+<span style="color:green;font-weight:700;font-size:50px">
+    markdown color font styles
+</span>
 
 Milestones:
 Week 15
